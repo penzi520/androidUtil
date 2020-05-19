@@ -1,0 +1,2 @@
+# androidUtil
+该工具类使用Python编写,主要用于将android资源文件中string.xml转换为excel，也可将excel转换成相应的string.xml
