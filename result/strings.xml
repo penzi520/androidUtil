@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="cancel">Cancel</string>
+	<string name="sure">OK</string>
+	<string name="yes">Yes</string>
+	<string name="note">Information</string>
+	<string name="warn">Warning</string>
+	<string name="button_ok">OK</string>
+	<string name="select">Select</string>
+	<string name="back">Back</string>
+	<string name="loading">Loading…</string>
+	<string name="upper_pause">PAUSE</string>
+	<string name="upper_exit">EXIT</string>
+	<string name="upper_continue">CONTINUE</string>
+	<string name="save">Save</string>
+	<string name="no">No</string>
+	<string name="question">Question</string>
+</resources>
